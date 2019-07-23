@@ -123,6 +123,7 @@
         <module>sandbox-mgr-provider</module>
         <module>sandbox-module-starter</module>
         <module>sandbox-debug-module</module>
+        <module>scarb-agent</module>
     </modules>
 
     <dependencyManagement>
